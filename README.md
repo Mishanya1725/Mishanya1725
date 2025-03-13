@@ -2,9 +2,9 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python and aiogram
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: my telegram - https://t.me/misha_nya911  my discord - misha_nya15
+- 📫 How to reach me: my telegram - https://t.me/misha_nya911 ; my discord - misha_nya15
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I have a big experience in creating mods for game Hearts of Iron 4
 
 <!---
 Mishanya1725/Mishanya1725 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
